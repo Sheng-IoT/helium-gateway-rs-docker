@@ -1,4 +1,4 @@
 # helium-gateway-rs-docker
-![example workflow](https://github.com/Sheng2216/helium-gateway-rs-docker/actions/workflows/docker-publish.yml/badge.svg)
+[![helium-gateway-rs-docker-workflow](https://github.com/Sheng2216/helium-gateway-rs-docker/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/Sheng2216/helium-gateway-rs-docker/actions/workflows/docker-publish.yml)
 
 Dockerizing Helium-gateway-rs and helium-wallet-rs
