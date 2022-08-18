@@ -28,7 +28,7 @@ WORKDIR /app
 
 ### Install packages
 RUN  apt-get update \
-  && apt-get install -y wget \
+  && apt-get install -y wget jq \
   && rm -rf /var/lib/apt/lists/*
 
 ### Copy launch script that start helium_gateway service
